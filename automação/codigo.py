@@ -22,7 +22,7 @@ time.sleep(1)
 pyautogui.click(x=108, y=180)
 
 time.sleep(1)
-pyautogui.click(x=794, y=616,clicks=2)
+pyautogui.click(x=587, y=562,clicks=2)
 
 time.sleep(1)
 pyautogui.click(x=829, y=235)
